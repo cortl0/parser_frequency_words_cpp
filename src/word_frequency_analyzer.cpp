@@ -1,19 +1,21 @@
-//********************************************************//
-//                                                        //
-//  parser frequency words C++ v0.1                       //
-//  created by Ilya Shishkin                              //
-//  cortl@yandex.ru                                       //
-//  www.8iter.ru                                          //
-//  https://github.com/cortl0/parser_frequency_words_cpp  //
-//  licensed by GPL v3.0                                  //
-//                                                        //
-//********************************************************//
+//*********************************************************//
+//                                                         //
+//  word frequency analyzer C++ v0.1                       //
+//  created by Ilya Shishkin                               //
+//  cortl@yandex.ru                                        //
+//  www.8iter.ru                                           //
+//  https://github.com/cortl0/word_frequency_analyzer_cpp  //
+//  licensed by GPL v3.0                                   //
+//                                                         //
+//*********************************************************//
 
-#include "parser_frequency_words.h"
+#include "word_frequency_analyzer.h"
 
-int parser_frequency_words::start(const char *file_name)
+int word_frequency_analyzer::start(const char *file_name)
 {
     try {
+        cout << "input file name is: " << file_name << endl;
+
         static const uint64_t char_buffer_length = 4096;
         char char_buffer[char_buffer_length];
         uint64_t char_buffer_shift;
@@ -63,7 +65,7 @@ int parser_frequency_words::start(const char *file_name)
                         continue;
                     }
                     if (word_shift > 32)
-                        throw runtime_error("parser_frequency_words.h: word length greater than 32 characters");
+                        throw runtime_error("word_frequency_analyzer.h: word length greater than 32 characters");
                 }
             }
             if (word_shift > 0)
@@ -101,13 +103,18 @@ int parser_frequency_words::start(const char *file_name)
                 out_file.close();
             }
         }
+        else {
+            cout << "file " << file_name << " not found" << endl;
+            return 1;
+        }
     } catch (runtime_error& e) {
         cout << e.what() << endl;
         return 1;
     }
     catch (...) {
-        cout << "unexpected error in parser_frequency_words.h" << endl;
+        cout << "unexpected error in word_frequency_analyzer.h" << endl;
         return 1;
     }
+    cout << "the file \"output.txt\" is ready" << endl;
     return 0;
 }

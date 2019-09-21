@@ -9,38 +9,21 @@
 //                                                         //
 //*********************************************************//
 
-#include "word_frequency_analyzer.h"
-#include "word_frequency_analyzer_test.h"
+#ifndef WORD_FREQUENCY_ANALYZER_TEST_H
+#define WORD_FREQUENCY_ANALYZER_TEST_H
 
+#include "word_frequency_analyzer.h"
+
+#include <fstream>
 #include <iostream>
+#include <string>
 
 using namespace std;
 
-int main(int argc, char* argv[])
+class word_frequency_analyzer_test
 {
-    switch (argc)
-    {
-    case 1:
-    {
-        string s;
-        cout << "file name argument missing. do you start testing with \"test_input.txt\" and \"test_output.txt\"? [y/n]:";
-        cin >> s;
-        if(s == "y")
-        {
-            word_frequency_analyzer_test wfat;
-            cout << wfat.start() << endl;
-        }
-        else
-            cout << "cancel" << endl;
-        break;
-    }
-    case 2:
-    {
-        word_frequency_analyzer wfa;
-        if (wfa.start(argv[1]))
-            cout << "analysis failed" << endl;
-        break;
-    }
-    }
-    return 0;
-}
+public:
+    string start();
+};
+
+#endif // WORD_FREQUENCY_ANALYZER_TEST_H
