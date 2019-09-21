@@ -7,4 +7,5 @@
 !./src/wfa.pro
 !./data/test_input.txt
 !./data/test_output.txt
+!./.gitignore
 !./README.md
