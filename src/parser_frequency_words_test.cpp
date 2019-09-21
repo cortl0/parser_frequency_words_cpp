@@ -40,5 +40,5 @@ string parser_frequency_words_test::start()
     catch (...) {
         return "unexpected error in parser_frequency_words_test.h";
     }
-    return "cancel\n";
+    return "cancel";
 }
