@@ -1,10 +1,10 @@
 *
-!./src/parser_frequency_words.h
-!./src/parser_frequency_words.cpp
-!./src/parser_frequency_words_test.h
-!./src/parser_frequency_words_test.cpp
+!./src/word_frequency_analyzer.h
+!./src/word_frequency_analyzer.cpp
+!./src/word_frequency_analyzer_test.h
+!./src/word_frequency_analyzer_test.cpp
 !./src/main.cpp
-!./src/pfw.pro
+!./src/wfa.pro
 !./data/test_input.txt
 !./data/test_output.txt
 !./README.md
