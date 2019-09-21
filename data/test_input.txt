@@ -1,0 +1,632 @@
+
+
+    Billionaires
+    Innovation
+    Leadership
+    Money
+    Business
+    Small Business
+    Lifestyle
+    BrandVoice
+    Lists
+    Advisor
+    Featured
+
+Forbes AI 50
+Daily Cover90,501 viewsSep 17, 2019, 06:00am
+AI 50: America’s Most Promising Artificial Intelligence Companies
+Michael Hirshon for Forbes
+Jillian D'Onfro
+Jillian D'Onfro
+Forbes Staff
+Innovation
+I cover Google parent company Alphabet and artificial intelligence.
+
+A
+rtificial intelligence is infiltrating every industry, allowing vehicles to navigate without drivers, assisting doctors with medical diagnoses, and mimicking the way humans speak. But for all the authentic and exciting ways it’s transforming the tasks computers can perform, there’s a lot of hype, too. 
+
+As Jeremy Achin, CEO of newly minted unicorn DataRobot, puts it: “Everyone knows you have to have machine learning in your story or you’re not sexy.”
+
+The inherently broad term gets bandied about so often that it can start to feel meaningless and can be trotted out by companies to gussy up even simple data analysis. To help cut through the noise, Forbes and data partner Meritech Capital put together a list of private, U.S.-based companies that are wielding some subset of artificial intelligence in a meaningful way and demonstrating real business potential from doing so. One makes robots that can whir around shoppers to help workers restock shelves. Another scans recruiting pitches for unconscious bias. A third analyzes massive data sets to make street-by-street weather predictions.
+
+To be included on the list, companies needed to show that techniques like machine learning (where systems learn from data to improve on tasks), natural language processing (which enables programs to “understand” written or spoken language), or computer vision (which relates to how machines “see”) are a core part of their business model and future success. Find all the details on our methodology here.
+
+The honorees span categories like human resources, security, insurance, and finance, with healthcare, transportation, and infrastructure startups best represented on the list. While most of the 50 hail from traditional tech centers like Silicon Valley, New York City and Boston, there’s representation from smaller hubs such as Detroit and Austin, too. Cumulatively, the startups are flush with cash–unsurprising, given that startups touting AI received a record $7.4 billion in funding in just the second quarter of 2019, according to CBInsights. Only eight startups were founded or cofounded by women, reflecting trends in venture funding, where software startups run by men have received the lion’s share of investment dollars. That’s a possible cause for concern: Studies have shown that artificial intelligence can compound existing biases in data, which may be more likely to happen if there are fewer women and underrepresented minorities in the room.
+
+The winners below are listed in order of ascending valuation, and in each case we’ve tried to focus on the problem the company is trying to solve instead of the tool solving it. In instances where companies submitted valuation information on the condition of confidentially, Forbes used estimates from data provider Pitchbook.
+
+AI 50 founders reflect on the biggest misconceptions they hear about artificial intelligence and Meritech Capital principal Konstantine Buhler explains how he evaluates startups.
+
+
+
+50 | Viz.ai 
+Headquarters: San Francisco
+Founders: Chris Mansi (CEO), David Golan 
+Funding: $21 million
+Valuation: Unknown
+
+Viz.ai aims to reduce the number of stroke victims who don’t receive the right treatment in time. Its software cross-references CT images of a patient’s brain with its database of scans and can alert specialists in minutes to early signs of large vessel occlusion strokes that they may have otherwise missed or taken too long to spot.. It sells its suite of products to hospital networks and medical institutions, including Mount Sinai in New York and Swedish Health System in Denver.
+–
+
+
+49 | Deep 6
+Headquarters: Pasadena, CA
+Founder: Wout Brusselaers
+Funding: $22 million
+Valuation: Unknown
+
+When pharmaceutical research teams embark on a new clinical trial, one of the biggest bottlenecks can be finding the right cohort of patients to work with. That’s where Deep 6 comes in. CEO Wout Brusselaers says the company’s software can pull data from electronic medical records to create patient graphs that allow researchers to filter for specific conditions and traits, leading to matches in “minutes, instead of months.” The system’s language understanding engine has been trained so that it can infer some conditions even if they’re not explicitly mentioned in notes, and Deep 6 says it has more than 20 health system or pharmaceutical customers.
+–
+
+
+48 | Lilt  
+Headquarters: San Francisco
+Founders: Spence Green, John DeNero 
+Funding: $12.5 million, via Pitchbook 
+Valuation: $29.5 million, via Pitchbook
+
+Lilt makes human translators better at their job. Cofounder John DeNero spent several years as a senior research scientist for Google Translate, learning the strengths and limitations of autonomous translation. Instead of relying solely on machines, Lilt can churn out better translations, faster, for the likes of HBC and Zendesk by equipping freelancers with machine translations and predictive typing tools.
+–
+
+
+
+47 | Armorblox
+Headquarters: Cupertino, CA
+Founders: DJ Sampath (CEO), Arjun Sambamoorthy, Chetan Anand, Anand Raghavan
+Funding: $16.5 million 
+Valuation: $37 million, via Pitchbook
+
+CEO and cofounder Dhananjay Sampath launched Armorblox into the saturated cybersecurity market two years ago with the aim of protecting customers from socially engineered attacks, like phishing emails, that take advantage of human missteps. Sampath hopes it will stand out from the competition by using natural language processing, which allows machines to learn and understand language. Its software analyzes a customer’s communication styles to get a sense context and then automatically flags possible phishing attempts, insider threats or accidental data disclosures.
+–
+
+46 | DefinedCrowd
+Daniela Braga of DefinedCrowd
+
+Daniela Braga of DefinedCrowdDário Branco
+
+Headquarters: Seattle 
+Founders: Daniela Braga
+Funding: $13.1 million
+Valuation: $38.8 million, via Pitchbook
+
+DefinedCrowd taps human contributors to build bespoke datasets for a client list that includes Mastercard and BMW. The startup recruits freelancers through a platform called Neevo and assigns them tasks like labeling images or recording audio, hastening their work with machine learning-powered automation where possible. All the data created or checked by people gets compiled into a format that customers can use to train their own algorithms. DefinedCrowd is currently in the process of raising a big Series B round of funding it expects to complete by the end of the year.
+–
+
+
+45 | May Mobility  
+Headquarters: Ann Arbor, MI
+Founders: Edwin Olson (CEO), Alisyn Malek, Steve Vozar
+Funding: $33 million
+Valuation: $61.9 million, via Pitchbook
+
+May Mobility is taking on the self-driving challenge with form factor that’s more predictable than cars: autonomous shuttles. The company’s software has powered shuttle services in Providence, Rhode Island, and Columbus, Ohio, where passengers get scenic tours of the city.
+–
+
+
+
+44 | Xnor.ai
+Headquarters: Seattle 
+Founders: Ali Farhadi,  Mohammad Rastegari (CEO: Jon Gelsey)
+Funding: $14.6 million, via Pitchbook
+Valuation: $62.05 million, via Pitchbook
+
+While researchers at the Allen Institute for Artificial Intelligence, Ali Farhadi and Mohammad Rastegari identified a problem: “Most of the time, AI researchers (including ourselves) tend to make better, newer algorithms with more demand for compute, memory and power,” Farhadi says. “However, the real-world use cases tend to move in the opposite direction—demanding solutions with less compute, memory and power.” They set about trying to create a system where complex algorithms could run on simple hardware and spun out of the Allen Institute, which was cofounded by the late Paul Allen of Microsoft, in 2016. Earlier this year, the company hit a technology breakthrough when it managed to run a simple computer vision system on a solar-powered computer chip. 
+–
+
+43 | Suki AI
+Headquarters: Redwood City, CA
+Founder: Punit Soni (CEO)
+Funding: $20 million
+Valuation: $65 million 
+
+Suki is built around the idea that administrative tasks are a significant burden for doctors, cutting into their time to focus on patients. To relieve that strain, the startup makes a voice-enabled digital assistant that doctors can use to take notes and fill in electronic records in real time. It has signed on several large health systems and provider groups, including Unified Physician Management and Ascension Health, and says that users average a 76% reduction in time spent completing clinical notes. CEO Punit Soni says that its digital assistant goes “far beyond” voice-to-text software, recognizing context and becoming more personalized the more doctors use it. “Suki was born with a mission to bring joy back to medicine,” he says.  
+–
+
+
+
+42 | Aira
+Watson Yim, Sujeeth Kanuganti, Suman Kanuganti, and Yuja Chang of Aira
+
+Aira's cofounders Watson Yim, Sujeeth Kanuganti, Suman Kanuganti, and Yuja Chang Courtesy of Aira
+
+Headquarters: San Diego
+Founders: Suman Kanuganti, Sujeeth Kanuganti, Watson Yim, Yuja Chang, Larry Bock (CEO: Mike Randall) 
+Funding: $35 million
+Valuation: $66 million, via Pitchbook
+
+Aira helps blind and low-vision people better “see” the world by combining real human beings with an AI-powered agent through its app or custom smart glasses. The company admits that its AI agent, Chloe, is still in its infant stage right now—it can complete simple tasks like reading the instructions on a pill bottle — but it has big ambitions for more robust computer-vision-based navigation. The product is free for sessions under five minutes, and for all sessions in the 25,000+ locations where Aira has partnerships, like JFK Airport and the grocery chain Wegmans. 
+–
+
+
+41 | Rulai 
+Headquarters: Campbell, CA 
+Founders: Marc Vanlerberghe (CEO), Yi Zhang
+Funding: $14.5 million
+Valuation: $80 million
+
+While chat bots burst onto the scene with a lot of promise (remember how they were going to take over Facebook Messenger?), they never quite reached mainstream adoption, due in part to disenchantment with their limited scope and conversational rigidity. Rulai says its virtual assistants are different. While most bots run into trouble when users switch context or add tasks, cofounder Yi Zhang says that Rulai’s dialog manager models don’t get tripped up. “Virtual assistants need to handle the variation of natural language and the variation of conversation flows,” she says. Rulai has won over the likes of Lyft, Sanofi and Fidelity with its customer support, sales and employee productivity bots. 
+–
+
+
+40 | Algorithmia
+Headquarters: Seattle
+Founders: Diego Oppenheimer (CEO), Kenny Daniel 
+Funding: $38 million, via Pitchbook 
+Valuation: $100 million, via Pitchbook
+
+Algorithmia cofounder Kenny Daniel used to have a favorite saying: “'The future is already invented; it just happens to be stuck in a research paper somewhere.” He and longtime Microsoft employee Diego Oppenheimer banded together to devise an easier way for data scientists to discover and work with machine learning models. While Algorithmia began as a marketplace for algorithms used primarily by individual developers, it has adapted into a more robust infrastructure service for large enterprises. For example, it says that one financial institution used its platform to bring a new risk model into production.
+–
+
+
+
+39 | Ubiquity6 
+Anjney Midh & Ankit Kumar of Ubiquity6
+
+Anjney Midh & Ankit Kumar of Ubiquity6
+
+Headquarters: San Francisco 
+Founders: Anjney Midha (CEO), Ankit Kumar
+Funding: $37 million, via Pitchbook 
+Valuation: $102 million, via Pitchbook 
+
+Founded by former Kleiner Perkins partner Anjney Midha and deep learning researcher Ankit Kumar, Ubiquity6 makes a smartphone app for multi-person augmented reality experiences. The app can build a 3D map of a space in roughly 30 seconds and uses computer vision to recognize real-world objects, so that objects created in AR can interact with them like they would in the real world. For example, in August 2018 it previewed a game at the San Francisco Museum of Modern Art that let guests create René Magritte-themed objects with which other users could interact.
+–
+
+
+38 | Textio
+Headquarters: Seattle
+Founders: Kieran Snyder (CEO), Jensen Harris 
+Funding: $29.5 million 
+Valuation: $115 million, via Pitchbook 
+
+Seattle-based HR startup Textio helps companies make their job postings or recruiting emails more effective, suggesting language changes to increase the likelihood of responses. Because its 350 customers, including Spotify, Expedia and Johnson & Johnson, share their anonymized audience demographics as well as response rates, its system can help flag whether certain phrases appeal particularly to people of one gender or background.  A tool called Textio Flow, launched in April, can automatically produce whole paragraphs based on users’ notes about what they want to say. CEO Kieran Snyder likens the service to a superpower that helps users say “exactly what they mean, in words they didn’t even know they had.”
+–
+
+
+37 | Affectiva 
+Headquarters: Boston  
+Founders: Rana el Kaliouby (CEO), Rosalind Picard 
+Funding: $53 million 
+Valuation: $116 million
+
+Affectiva is trying to tackle the incredibly hard problem of  teaching software to recognize emotions based on facial expressions and voice. “There is no way that heuristic coding or a simple rules-based approach can capture all these complexities and nuance,” says cofounder and CEO Rana el Kaliouby. The company recently raised a fresh round of funding led by automotive company Aptiv with the hope that its technology could one day be integrated into smart cars (imagine a vehicle that could issue a warning to a drowsy-looking driver). In the meantime, it’s also being used to test consumer feedback on ads and TV programming.
+–
+
+
+
+36 | BigPanda
+Headquarters: Mountain View, CA
+Founders: Assaf Resnick (CEO), Elik Eizenberg 
+Funding: $51 million 
+Valuation: $135 million, via Pitchbook
+
+Nothing riles up users like a website or application going down. To streamline and prevent IT catastrophes like this, former Sequoia Capital principle Assaf Resnick joined forces with software developer Elik Eizenberg to launch BigPanda. Resnick is CEO and Eizenberg chief technology officer of the eight-year-old company, which uses AI and machine learning to curtail IT problems in real time before they turn into full-blown network outages. Across industries, BigPanda has attracted dozens of customers including Nike and United Airlines.
+–
+
+
+35 | Insitro
+Daphne Koller of Insitro
+
+Daphne Koller of Insitro
+Headquarters: South San Francisco  
+Founders: Daphne Koller (CEO)
+Funding: $100 million 
+Valuation: $135 million, via Pitchbook
+
+Insitro aims to improve the drug discovery process. Founded by machine-learning veteran Daphne Koller, it creates in vitro models of human disease in its automated laboratory and then applies machine-learning models to predict possible effective therapies. It recently announced a partnership with drug maker Gilead Sciences, worth up to $1 billion, to help it find a treatment for a form of liver disease called nonalcoholic steatohepatis, or NASH. 
+READ MORE →
+–
+
+
+34 | Blue Hexagon 
+Headquarters: Sunnyvale, CA
+Founders: Nayeem Islam (CEO), Saumitra Das 
+Funding: $31 million 
+Valuation: $143.9 million, via PitchBook
+
+Blue Hexagon, led by longtime Qualcomm executive Nayeem Islam, spent more than a year and a half building a deep learning system to analyze network traffic that it says can detect and block threats in under a second. Islam says that when potential customers try the software, it can be “startling” how many more potential attacks it flags, which he attributes to its ability to predict how attackers will adapt their malware. “[Finding] the mutation of a threat is what AI does incredibly well,” he says. “Our detection rate for the last year has consistently been over 99%.”
+–
+
+
+
+33 | Tamr
+Headquarters: Cambridge, MA
+Founders: Andy Palmer (CEO), Ihab Ilyas, Mike Stonebraker 
+Funding: $73.5 million
+Valuation: $155 million, via Pitchbook
+
+Data management company Tamr was born out of an MIT research project to apply machine learning to clean and organize so-called dirty data that’s incomplete or inconsistent. Andy Palmer was running data engineering at pharmaceutical company Novartis when MIT’s system was brought in to organize a decade’s worth of biological assay information spread across more than 15,000 tables. The technology worked so well that he and two of the researchers decided to start a company around it. “The only way to curate thousands of tabular data sources that are constantly changing is using an artful combination of machine learning and human expertise,” says Palmer, who is now CEO. In practice, that means that Tamr’s system automatically identifies sources of data across a company that could be useful together and then tags in an employee to instruct the software how to integrate it. The company sells its service to customers like Toyota, GSK and GE, which it says saved over $80 million using Tamr. 
+–
+
+
+32 | Socure
+Headquarters: New York City
+Founders: Johnny Ayers, Sunil Madhu (no longer active employee) - (CEO: Tom Thimot)
+Funding: $60 million
+Valuation: $175 million, via Pitchbook
+
+Socure aims to wipe out identity fraud. It evaluates data from hundreds of online and offline data sources including credit bureaus, carrier phone records, IP addresses, social networks and more, to monitor for any suspicious behavior. The company says that customers see reductions in fraud rate and manual review costs by 80% to 90%.
+–
+
+
+31 | Bossa Nova Robotics
+Headquarters: San Francisco 
+Founders: Sarjoun Skaff, Martin Hitch (CEO: Bruce McWilliams)
+Funding: $76.57 million, via Pitchbook
+Valuation: $179 million, via Pitchbook
+
+If you find yourself in a Walmart, keep your eyes peeled for a big, slow-moving robot gliding up and down the aisles. It’s the brainchild of robotics startup Bossa Nova and is rolling out to 350 stores around the country to help keep shelves well stocked. Its system reads price labels for discrepancies and finds gaps on shelves so it can alert workers about any problems. Chief technology officer Sarjoun Skaff says it has taken iteration after iteration since 2013 to figure out how to let its robots maneuver safely around shoppers and interpret billions of images in a way that was accurate, timely and reliable.
+–
+
+
+
+30 | Pymetrics 
+Frida Polli of Pymetrics
+
+Frida Polli of Pymetrics
+Headquarters: New York City
+Founders: Frida Polli (CEO) 
+Funding: $56.6 million 
+Valuation: $190 million, via Pitchbook
+
+Online recruiting platform Pymetrics helps companies find the right hires by looking beyond experiences and skills on a résumé. Its more than 80 enterprise customers, including LinkedIn, Accenture, MasterCard and Unilever have current, top-performing employees complete the platform’s set of assessments. Pymetrics gleans key emotional and cognitive traits for different roles so when job seekers apply to work at one of those companies and complete the challenges themselves, they’re paired with jobs that are the best fit. Companies can also use the platform for internal career development. “It makes the process more efficient with better outcomes and increases diversity tremendously,” says CEO and neuropsychology Ph.D. Frida Polli. Pymetrics open-sources its algorithm auditing tool, aimed at preventing its systems from reinforcing gender or ethnic bias.
+–
+
+
+29 | K Health  
+Headquarters: New York City
+Founders: Allon Bloch (CEO), Ran Shaul, Adam Singolda 
+Funding: $56 million, via Pitchbook
+Valuation: $200 million, via Pitchbook
+
+K Health doesn’t think that everyday health concerns need to warrant a trip to the doctor’s office. “K was built by technologists and doctors because we felt frustrated with the ability to access relevant, personalized and affordable healthcare,” says cofounder and CEO Allon Bloch. The company’s consumer app draws on a data set of more than 2 billion anonymized medical records, finding subtle patterns in the data to give users personalized health advice. In July, K announced a partnership with insurance provider Anthem to let members see how doctors diagnose and treat similar people with similar symptoms for free (though they’ll be charged to chat with an actual doctor).
+–
+
+
+28 | Moveworks
+Headquarters: Mountain View, CA
+Founders: Bhavin Shah (CEO), Vaibhav Nivargi, Varun Singh, Jiang Chen
+Funding: $30 million 
+Valuation: $200 million+
+
+Moveworks wants to end the frustration of waiting around for corporate IT help–its natural language understanding engine can solve 25% to 35% of all employee IT issues autonomously. For example, if a worker sends a frantic message like,  “Sorry, I was biking to work and dropped my laptop accidentally, and it won’t turn on now. What should I do?? Please help!” the system can both understand the problem and send the right form for a loaner laptop. Moveworks has a “deep, semantic understanding of the kinds of problems employees experience and how they express them,” CEO Bhavin Shah says. Big customers like Autodesk, Western Digital and Nutanix are on board. 
+–
+
+27 | Rev.com
+Headquarters: Austin, TX
+Founder: Jason Chicola (CEO), David Abrameto, Mark Chen, Paul Huck, Dan Kokotov. 
+Funding: $31 million
+Valuation: $206 million
+
+In June, transcription service Rev.com said that its tests show that its word error rate on podcast transcriptions was lower than what Google, Amazon or Microsoft’s tools produced. While developers can buy access to that completely automated speech recognition engine, its network of freelance transcribers also use it to make their client work easier and faster. CEO Jason Chicola says this hybrid approach leads to higher- quality, cheaper transcriptions. “Language is incredibly complex—think accents, mumbling, arcane terminology, bad microphones, background noise,” says Chicola. “Humans are far, far better at making judgment calls for these real-world factors.”
+–
+
+
+
+26 | Noodle.ai 
+Headquarters: San Francisco
+Founders: Stephen Pratt (CEO), Raj Joshi, Martha McGaw, Ted Gaubert, Matt Denesuk
+Funding: $51 million, via Pitchbook
+Valuation: $210 million, via Pitchbook 
+
+Stephen Pratt first saw machine learning in action while working as a consultant on a Department of Defense project in the early 1990s. Computers were too slow and data too expensive to make AI practical at the time, but roughly three decades later, Pratt teamed up with investment firm TPG to help it identify a data analytics company to buy or invest in. After a yearlong search he couldn’t find the right fit and joined IBM Watson, but only stayed for eight months before deciding to build something new with TPG’s backing. Pratt gathered a handful of industry vets as his cofounders and Noodle.ai launched on Pi Day 2016 (3.14.16). The startup charges a one-time fee to create AI software for industrial and transportation companies, with a monthly hosting fee on top. It’s booked $50 million in total contract value from the likes of XoJet and Big River Steel.
+–
+
+
+25 | Kodiak Robotics 
+Headquarters: Mountain View, CA
+Founders: Don Burnette (CEO), Paz Eshel 
+Funding: $40 million
+Valuation: $210 million, via Pitchbook
+
+The red-hot autonomous trucking space is full of well-funded competition, but that inherent risk isn’t deterring Kodiak Robotics cofounders Don Burnette and Paz Eshel (the two met on a sky-diving trip, after all). The idea is that autonomously driving cargo-laden trucks down a highway could be a nearer-term and even more attractive commercial opportunity than passenger vehicles. Kodiak recently started shipping household goods in between Dallas and Houston, Texas, but said that it can’t name clients just yet. Ultimately, it plans to build its own comprehensive logistics business instead of selling its technology to other carriers.
+–
+
+
+24 | ClimaCell 
+Headquarters: Boston 
+Founders: Shimon Elkabetz (CEO), Rei Goffer, Itai Zlotnik 
+Funding: $80 million 
+Valuation: $217 million, via Pitchbook
+
+ClimaCell’s cofounders all had what CEO Shimon Elkabetz describes as “life-threatening experiences due to poor weather forecasts” while serving in the Israeli military, inspiring them to try to find a way to make predictions more accurate. The company uses vast quantities of nontraditional data—like signals from cellphones, internet-of-things devices and street cameras—to issue hyperlocal “street-by-street, minute-by-minute” weather forecasts. More than 150 corporate customers, including JetBlue, the New England Patriots and ride-sharing service Via, are shelling out for its real-time predictions. 
+–
+
+
+23 | AEye
+Headquarters: Pleasanton, CA 
+Founders: Luis Dussan (CEO), Ransom Wuller, Jordan Greene, Barry Behnken
+Funding: $65 million 
+Valuation: $220 million, via Pitchbook 
+
+AEye wants to improve the “eyes” of autonomous cars, robots and drones by combining laser lidar— which stands for “light detection and ranging”—with a high-definition camera. That integrated system can increase the speed and decrease the power consumption of a self-driving car’s perception system, says CEO Luis Dussan, who worked at Northrop Grumman and NASA’s Jet Propulsion Lab before founding the company. 
+–
+
+
+
+22 | Brain Corp.
+Headquarters: San Diego
+Founders: Eugene Izhikevich (CEO), Allen Gruber
+Funding: $125 million
+Valuation: $240 million via Pitchbook
+
+Brain Corp. aims to upgrade dumb machinery with robotic software. It’s tackling the world of floor-cleaning equipment first, partnering with manufacturers to make their machines better at avoiding obstacles in busy environments. Walmart announced earlier this year that nearly 2,000 stores will be humming with BrainOS-powered cleaners by the end of 2019. “I have always dreamed of building artificial brains,” says neurobiology researcher and CEO Eugene Izhikevich. “Starting Brain Corp. gave me this opportunity.”
+–
+
+    “I have always dreamed of building artificial brains.”
+    BrainCorp CEO Eugene Izhikevich
+
+
+21 | Domino Data Lab 
+Headquarters: San Francisco
+Founders: Nick Elprin (CEO)
+Funding: $80.6 million, via Pitchbook 
+Valuation: $260 million, via Pitchbook
+
+Domino Data Lab’s software-as-a-service platform provides data scientists with the “picks and shovels” they need to build, test and run their own AI models. CEO Elprin describes its as a sort of GitHub for experts and its 70-plus client lists include big enterprises and startups alike, including Allstate, Instacart, Dell, Gap and FabFitFun. 
+–
+
+
+
+20 | Matterport
+Headquarters: Sunnyvale, CA
+Founders: Matt Bell, David Gausebeck, Michael Beebe (no longer active employee) - (CEO: RJ Pittman)
+Funding: $115 million, via Pitchbook
+Valuation: $355 million, via Pitchbook
+
+Matterport makes hardware and software for creating realistic 3D models. Its image processing technology, called Cortex, works with its own 3D camera, as well as a selection of cheaper 360-degree cameras, to let users create virtual versions of their space. The company’s leaning into the real estate market, showcasing how agents can use it to give 3D tours. 
+–
+
+
+19 | PathAI
+Headquarters: Boston 
+Founders: Andy Beck (CEO), Aditya Kholsa  
+Funding: $75 million, via Pitchbook 
+Valuation: $375 million, via Pitchbook 
+
+Andy Beck was rising up the ranks of the Harvard Medical School faculty when he quit to cofound PathAI with Aditya Khosla. Beck, who spent more than five years as a pathologist at Harvard, wants to make it easier for other pathologists to diagnose diseases like cancer by using machine learning to more quickly and accurately analyze images of cells. For the time being, its tools are used not so much by doctors as they are by researchers at pharmaceutical companies. The Boston-based startup boasts a client list of the world’s largest pharma giants, such as Novartis, Gilead Sciences and Bristol-Myers Squibb.
+–
+
+
+18 | People.ai  
+Oleg Rogynskyy of People Ai
+
+Oleg Rogynskyy of People Ai
+Headquarters: San Francisco
+Founder: Oleg Rogynskyy (CEO)
+Funding: $100 million
+Valuation: $500 million, via Pitchbook
+
+People.ai CEO Oleg Rogynskyy says he’ll never forget the moment he realized how much time salespeople spend doing nonsales things. At the time, he was an early employee at a company called Nstein Technologies. “The COO of Nstein grounded the whole sales team for a week in a sweaty, windowless conference room to go and clean up our Salesforce,” Rogynskyy recalls. That week inspired him to address “bad” customer relationship management data head-on, he says. In 2016, Rogynskyy founded People.ai, which integrates into CRM systems like Salesforce and automatically inputs relevant data from email, calendars, Slack chats and more, and advises salespeople on the “best” tasks to focus on. VMware, Zoom, New Relic and Lyft are all customers. 
+–
+
+
+
+17 | Standard Cognition 
+Headquarters: San Francisco 
+Founders: Jordan Fisher (CEO), Michael Suswal, David Valdman, John Novack, Brandon Ogle, Dan Fischetti, TJ Lutz 
+Funding: $86 million 
+Valuation: $535 million
+
+Goodbye, cashiers. Hello, cameras. Standard Cognition is working on an autonomous checkout system where shoppers can wander through a store, picking out goods and pay without scanning their items or interacting with an employee. Its overhead cameras track individuals and items continuously (notably, its so-called entity cohesion doesn’t rely on facial recognition, which it says gives shoppers more privacy). “We have essentially created autonomous checkout for everyone who is not Amazon,” the company says. Standard Cognition has opened a pop-up in San Francisco to show off its tech and says that it’s in “shadow mode” testing in several stores in North America. 
+–
+
+
+16 | Verkada
+Headquarters: San Mateo, CA
+Founders: Filip Kaliszan (CEO), Hans Robertson, James Ren, Benjamin Bercovitz
+Funding: $59 million
+Valuation: $540 million 
+
+Verkada has only been selling its products for two years, but it has already boomed to a $540 million valuation and more than 1,200 customers. A lineup of cloud-connected security cameras equipped with AI-driven features like object and movement detection has driven growth at Verkada, whose cofounders are three Stanford computer science graduates and the cofounder of enterprise cloud company Meraki, which sold to Cisco for more than $1 billion. Among the company’s wide-ranging list of clients are fitness club Equinox, the $1.1 billion Vancouver Mall and more than 500 school districts, which use the cameras for anything from monitoring student safety to tracking food deliveries. It earned a spot on Forbes’ list of Next Billion-Dollar Startups earlier this year.
+–
+
+
+15 | Feedzai 
+Headquarters: San Mateo, CA
+Founders: Nuno Sebastiao (CEO), Pedro Bizarro, Paulo Marques
+Funding: $82 million 
+Valuation: $575 million
+
+Since Feedzai launched back in 2011 to fight fraud and money laundering, many more competitors have started touting how their own tools move beyond rules-based systems to machine learning, too. CEO Nuno Sebastiao says the company has adapted to the new hoards by automating its model building and rolling out new visual analysis tools. He highlights major customers including Citi Bank and Lloyds Banking Group in the United Kingdom as proof of its product’s traction. 
+–
+
+
+
+14 | SentinelOne
+Headquarters: Mountain View, CA
+Founders: Tomer Weingarten (CEO) and Almog Cohen
+Funding: $230 million 
+Valuation: $600 million, via Pitchbook
+
+SentinelOne CEO Tomer Weingarten says he and his cofounder started the company in 2013 because antivirus software at the time was “some flavor of bad, incomplete, ineffective, and /or painful to deploy and operate.” They spent the past six years figuring out how to make endpoint security (which focuses on data coming from laptops, phones, and other network-connected devices) smarter, training machine learning models to detect malware in files and running in applications. The company has over 2,500 customers, including Estee Lauder and Autodesk, and it says it’s on the verge of announcing a major partnership with one of the largest PC makers to offer SentinelOne tech on its enterprise devices. 
+–
+
+
+13 | Bright Machines 
+Headquarters: San Francisco 
+Founder: Amar Hanspal (CEO), Tzahi Rodrig, Lior Susan 
+Funding: $200 million   
+Valuation: $679 million, via Pitchbook
+
+While factories have become increasingly automated over recent decades, Bright Machines believes that robotic systems are finally ready for primetime deployment. “Until now, the most complex operations in manufacturing have been too difficult for blind and dumb robots to perform with the same precision and fidelity as humans,” says CEO Amar Hanspal, adding that advances in computer vision and machine learning have changed the game. The company just released its first product in June: So-called “microfactories,” or closed systems with robotic arms that can complete tasks like inserting chips in a circuit board. 
+–
+
+
+12 | Upstart
+Upstart Cofounders
+
+Upstart cofounders Dave Girouard, Anna M. Counselman, and Paul Gu
+
+Headquarters: San Carlos, CA
+Founders: Dave Girouard (CEO), Anna M. Counselman, Paul Gu
+Funding: $164 million 
+Valuation: $750 million, via Pitchbook
+
+Upstart CEO Dave Girouard admits that most of the early team of former Google employees had no history in financial services when they came up with the idea to apply advanced data science to the credit process in 2012: Only the belief that the current system was antiquated and exclusionary. By using data not typically found in a person’s credit history to find more nuanced risk patterns, Girouard says Upstart’s lending model has higher approval rates and lower interest rates than traditional methods, with loss rates that are “less than half” of those of peer platforms. To-date, more than 300,000 individual borrowers have used Upstart to get a loan. 
+–
+
+
+
+11 | Fundbox 
+Headquarters: San Francisco
+Founders: Eyal Shinar (CEO), Tomer Michaeli, Yuval Ariav
+Funding: $140 million 
+Valuation: $750 million
+
+Fundbox has a data-driven take on lending that facilitates loans to small businesses rather than regular people. Founder Eyal Shinar says that seeing his mother, who ran a staffing agency, struggle with cash flow, inspired the idea of advancing customers for outstanding invoices. A company that wants a loan through Fundbox connects their existing finance tools to its platform, which then uses these data streams to assess risk and either approve it or not. Shinar says that process can take as little as three minutes. 
+–
+
+
+10 | Anduril Industries 
+Headquarters: Irvine, CA
+Founders: Palmer Luckey, Brian Schimpf (CEO), Trae Stephens, Matt Grimm, Joe Chen
+Funding: $180 million
+Valuation: Just under $1 billion
+
+Former Oculus cofounder Palmer Luckey is back after his dramatic exit from Facebook (he has hinted that the company fired him from the virtual reality unit for his political views, which it denies) with a defense technology startup called Anduril Industries, founded in 2017. The company makes a threat-detection system, using data from sensors mounted on towers, drones, and vehicles to create a real-time, 3D model of an area. It has contracts with the Marine Corps and UK’s Royal Navy, as well as with Customs and Border Protection for what has been described as a controversial “virtual border wall.” Following a report that it became a unicorn after a recent fundraise, the company confirmed to Forbes that it now has $180 million in total funding and a near-billion valuation.
+–
+
+
+9 | Scale AI
+Headquarters: San Francisco
+Founders: Alexandr Wang (CEO)
+Funding: $122 million
+Valuation: $1 billion
+
+Alexandr Wang’s data labeling startup Scale AI has gained so much attention from customers — particularly autonomous transportation companies, which need gobs of well-labeled data to train their systems — that he’s running a unicorn company before his 23rd birthday. Scale works with tens of thousands of contractors and though Wang says that the company uses machine learning to help improve the accuracy of its labeling, those humans are core to its mission. “ML is very much garbage-in garbage out, so we focused on quality from day one,” he says. 
+–
+
+
+8 | Hippo Insurance
+Headquarters: Palo Alto, CA 
+Founders: Assaf Wand (CEO), Eyal Navan
+Funding: $209 million 
+Valuation: $1 billion
+
+Hippo Insurance is one of a handful of companies trying to make the process of applying for home insurance faster and more Millennial-friendly. It pulls public data about a property to automatically answer many of the questions a typical insurer would ask, which means it can quickly dole out quotes, and pulls data from aerial images and smart home sensors to detect issues that could lead to claims in real-time. Hippo sells policies backed by established insurers, rather than underwriting them itself, and takes a commission off each one. 
+–
+
+
+
+7 | Icertis  
+Headquarters: Seattle 
+Founders: Samir Bodas (CEO), Monish Darda
+Funding: $211 million 
+Valuation: $1 billion
+
+Icertis, which celebrated its ten-year anniversary earlier this year, manages nearly 6 million contracts. Its cloud-based platform helps companies analyze past contract negotiations and automate administrative tasks. These offerings have brought on clients from more than 90 countries, including Airbus (France), Daimler (Germany), and Microsoft, the company where CEO Samir Bodas was previously a director.
+–
+
+6 | DataRobot
+Headquarters: Boston
+Founders: Jeremy Achin (CEO), Tom de Godoy 
+Funding: $431 million
+Valuation: $1.2 billion, via Pitchbook
+
+DataRobot wants to automate as much of a data scientist’s job as possible. The company just raised a new $206 million Series E round of funding as it develops the software that it says has helped customers like United Airlines, PNC Bank, and Deloitte build their own predictive models. The company boasts that users only need “curiosity and data,” and not coding skills, to use its platform to answer business questions with machine learning.
+READ MORE →
+–
+
+
+
+5 | Dataminr
+Headquarters: New York City
+Founders: Ted Bailey (CEO)
+Funding: $577 million 
+Valuation: $1.59 billion, via Pitchbook
+
+Dataminr ingests public internet data, like social media posts, and uses deep learning, natural language processing, and advanced statistical modeling to send users tailored alerts. The company has more than 500 clients paying its subscription fees, including Amazon, CNN, and The United Nations, which uses the system to find early signs of potential humanitarian crises around the world. 
+–
+
+
+4 | Lemonade
+Daniel Schreiber & Shai Wininger of Lemonade
+
+Daniel Schreiber & Shai Wininger of Lemonade
+
+Headquarters: New York City
+Founders: Daniel Schreiber (CEO), Shai Wininger
+Funding: $480 million
+Valuation: $2.1 billion, via Pitchbook
+
+Lemonade sells renters and homeowners insurance, though, unlike Hippo, it is actually a licensed policy carrier itself. It uses a chatbot to collect customer information and work through claims — 30% of which apparently don’t require human intervention to be resolved. It now has more than 500,000 customers, the majority of whom are first-time insurance buyers. 
+–
+
+
+3 | Uptake
+Headquarters: Chicago
+Founders: Brad Keywell
+Funding: $258 million
+Valuation: $2.3 billion, via Pitchbook
+
+Uptake CEO Brad Keywell says his company is in the business of making sure things work, “whether it’s the U.S. Army’s Bradley Fighting Vehicle, or the components that make up Rolls-Royce’s fleet of market-leading engines.” It’s brought in more than 100 industrial customers on its way to a $2.3 billion valuation. With a huge database of machine failures at its disposal, the five-year-old company leverages artificial intelligence to analyze how its customers’ machines can run better and avoid these failures. “There is no more guesswork or operating blindly involved,” says Keywell, who cofounded Groupon before founding Uptake.
+–
+
+
+
+2 | Aurora Innovation
+Headquarters: Palo Alto
+Founders: Chris Urmson (CEO), Sterling Anderson, Drew Bagnell 
+Funding: $696 million, via Pitchbook
+Valuation: $2.57 billion, via Pitchbook
+
+A trifecta of autonomy and transportation experts from Tesla, Uber, and Google came together to build Aurora, a self-driving car company that plans to sell its system to automakers instead of operating its own fleet (it currently has a deal with Hyundai to provide software for its future Kia models). A recent round of funding from Sequoia Capital, Amazon, and T. Rowe Price makes it one of the best-funded players in an increasingly crowded space. 
+READ MORE →
+–
+
+
+1 | Nuro
+Headquarters: Mountain View
+Founders: Jiajun Zhu (CEO), Dave Ferguson
+Funding: $1.03 billion
+Valuation: $2.7 billion
+
+After working for more than five years each on Google’s self-driving project, Dave Ferguson and Jiajun Zhu were done trying to ferry people around in autonomous vehicles. So, they ditched humans for local goods. Nuro’s driverless delivery vehicles have completed thousands of trips to shoppers through a partnership with Kroger in Texas. Shifting from people to pasta and Poptarts eliminates safety and technical constraints. “You can drive more conservatively because you don’t have someone inside the vehicle that’s getting frustrated,” Ferguson says. 
+–
+
+Additional reporting by Kenrick Cai and Kristin Tablang.
+
+Get Forbes’ daily top headlines straight to your inbox for news on the world’s most important entrepreneurs and superstars, expert career advice, and success secrets.
+
+Follow me on Twitter or LinkedIn. Send me a secure tip.
+Jillian D'Onfro
+Jillian D'Onfro
+
+I’m a San Francisco-based staff writer for Forbes reporting on Google and the rest of the Alphabet universe, as well as artificial intelligence more broadly. Previously...
+
+    Print
+    Site Feedback
+    Tips
+    Corrections
+    Reprints & Permissions
+    Terms
+    Privacy
+
+    ©2019 Forbes Media LLC. All Rights Reserved.
+    AdChoices
+
+8,055 viewsSep 17, 2019, 07:38pm
+After Four Fast Releases, Java 13 Blends Big Features And Subtle Fixes
+Oracle
+Alexa Weber Morales Brand Contributor
+Oracle
+BRANDVOICE | Paid Program
+Innovation
+Alexa Weber Morales
+Alexa Weber Morales
+
+An award-winning musician and writer, Alexa Weber Morales is director of developer content at Oracle. Morales is the former editor in chief of Software Development magaz...
+
+    Print
+    Site Feedback
+    Tips
+    Corrections
+    Reprints & Permissions
+    Terms
+    Privacy
+
+    ©2019 Forbes Media LLC. All Rights Reserved.
+    AdChoices
+
+
