@@ -1,7 +1,5 @@
 # Word frequency analyzer
-Word frequency analyzer on C++ language
-
-## word_frequency_analyzer class
+Word frequency analyzer on C++ language  
 ./src/word_frequency_analyzer.h  
 ./src/word_frequency_analyzer.cpp
 
