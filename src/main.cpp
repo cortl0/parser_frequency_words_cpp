@@ -37,7 +37,14 @@ int main(int argc, char* argv[])
     case 2:
     {
         word_frequency_analyzer wfa;
-        if (wfa.start(argv[1]))
+        if (wfa.start(argv[1], "../data/output.txt"))
+            cout << "analysis failed" << endl;
+        break;
+    }
+    case 3:
+    {
+        word_frequency_analyzer wfa;
+        if (wfa.start(argv[1], argv[2]))
             cout << "analysis failed" << endl;
         break;
     }

@@ -16,7 +16,7 @@ string word_frequency_analyzer_test::start()
     try
     {
         word_frequency_analyzer wfa;
-        if (wfa.start("../data/test_input.txt"))
+        if (wfa.start("../data/test_input.txt", "../data/output.txt"))
             return "test failed";
         ifstream file_0 = ifstream("../data/test_output.txt", ios::in |ifstream::binary);
         if (!file_0.is_open())

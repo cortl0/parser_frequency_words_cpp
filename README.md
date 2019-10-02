@@ -1,13 +1,38 @@
-# word_frequency_analyzer_cpp
+# Word frequency analyzer
+Word frequency analyzer on C++ language
 
-word frequency analyzer C++ v0.1
-word_frequency_analyzer.h
+## word_frequency_analyzer class
+./src/word_frequency_analyzer.h  
+./src/word_frequency_analyzer.cpp
 
-and example using for Qt:
-wfa.pro
+## Test
+./src/word_frequency_analyzer_test.h  
+./src/word_frequency_analyzer_test.cpp
 
-created by Ilya Shishkin
-cortl@yandex.ru
-www.8iter.ru
+## Data for testing
+./data/test_input.txt  
+./data/test_output.txt
+
+## Example using for Qt
+./src/wfa.pro  
+./src/main.cpp
+
+#### The program wfa accepts the arguments
+input file name  
+output file name  
+If there is no second argument, the output file name is accepted ./data/output.txt  
+In the absence of arguments, it is proposed to test
+
+## Execute program
+```bash
+./wfa ../data/test_input.txt ../data/output.txt
+```
+
+## Author
+Ilya Shishkin  
+mailto:cortl@8iter.ru  
+[http://8iter.ru/](http://8iter.ru/ "google translator to help!")  
 https://github.com/cortl0/word_frequency_analyzer_cpp
-licensed by GPL v3.0
+
+## License
+This project is licensed under the GPL v3.0 - see the LICENSE file for details

@@ -31,7 +31,7 @@ class word_frequency_analyzer
 #define rule ((c > 64) && (c < 91)) || ((c > 96) && (c < 123))
 
 public:
-    int start(const char *file_name);
+    int start(const char *in_file_name,  const char *out_file_name);
 };
 
 #endif // WORD_FREQUENCY_ANALYZER_H

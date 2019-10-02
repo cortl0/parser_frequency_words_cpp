@@ -11,10 +11,10 @@
 
 #include "word_frequency_analyzer.h"
 
-int word_frequency_analyzer::start(const char *file_name)
+int word_frequency_analyzer::start(const char *in_file_name,  const char *out_file_name)
 {
     try {
-        cout << "input file name is: " << file_name << endl;
+        cout << "input file name is: " << in_file_name << endl;
 
         static const uint64_t char_buffer_length = 4096;
         char char_buffer[char_buffer_length];
@@ -27,7 +27,7 @@ int word_frequency_analyzer::start(const char *file_name)
         char word[word_length];
         int word_shift;
 
-        ifstream in_file = ifstream(file_name, ios::in |ifstream::binary);
+        ifstream in_file = ifstream(in_file_name, ios::in |ifstream::binary);
         if (in_file.is_open())
         {
             //building the map from the file
@@ -87,7 +87,7 @@ int word_frequency_analyzer::start(const char *file_name)
             });
 
             //output the result to the file
-            ofstream out_file = ofstream("../data/output.txt", ios::out | ifstream::binary);
+            ofstream out_file = ofstream(out_file_name, ios::out | ifstream::binary);
             if(out_file.is_open())
             {
                 uint64_t count = 100;
@@ -104,7 +104,7 @@ int word_frequency_analyzer::start(const char *file_name)
             }
         }
         else {
-            cout << "file " << file_name << " not found" << endl;
+            cout << "file " << in_file_name << " not found" << endl;
             return 1;
         }
     } catch (runtime_error& e) {
@@ -115,6 +115,6 @@ int word_frequency_analyzer::start(const char *file_name)
         cout << "unexpected error in word_frequency_analyzer.h" << endl;
         return 1;
     }
-    cout << "the file \"output.txt\" is ready" << endl;
+    cout << "the file  " << out_file_name << " is ready" << endl;
     return 0;
 }
