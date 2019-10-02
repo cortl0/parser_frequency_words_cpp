@@ -83,22 +83,20 @@ int word_frequency_analyzer::start(const char *in_file_name,  const char *out_fi
             multimap<uint64_t, string> words_inv;
             for_each(words.begin(), words.end(), [&](pair<string, uint64_t> p)
             {
-                words_inv.insert(make_pair(p.second,p.first));
+                words_inv.insert(make_pair(p.second, p.first));
             });
 
             //output the result to the file
             ofstream out_file = ofstream(out_file_name, ios::out | ifstream::binary);
             if(out_file.is_open())
             {
-                uint64_t count = 100;
-                if(words.size() < count)
-                    count = words.size();
+                uint64_t count_size = words_inv.size();
+                //count_size = 100; // to display only the first 100 words
+                uint64_t count_out = count_size;
                 any_of(words_inv.rbegin(), words_inv.rend(), [&](pair<uint64_t, string> p)
                 {
-                    out_file << p.second << '\r' << '\n';
-                    //As an option for visualization
-                    //out_file << (100 - count) << "\t\t" << p.first << "\t\t" << p.second << '\r' << '\n';
-                    return !--count;
+                    out_file << (count_size - count_out) << "\t\t" << p.first << "\t\t" << p.second << '\r' << '\n';
+                    return !--count_out;
                 });
                 out_file.close();
             }
