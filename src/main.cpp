@@ -1,9 +1,9 @@
 //*********************************************************//
 //                                                         //
-//  word frequency analyzer C++ v0.1                       //
+//  word frequency analyzer                                //
 //  created by Ilya Shishkin                               //
-//  cortl@yandex.ru                                        //
-//  www.8iter.ru                                           //
+//  cortl@8iter.ru                                         //
+//  http://8iter.ru                                        //
 //  https://github.com/cortl0/word_frequency_analyzer_cpp  //
 //  licensed by GPL v3.0                                   //
 //                                                         //
